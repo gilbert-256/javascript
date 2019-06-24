@@ -1,0 +1,9 @@
+.body{
+    margin:0px;
+    padding:0px;
+}
+.nav{
+    height: 90px;
+    width: auto;
+    background-color: azure;
+}
